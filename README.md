@@ -1,5 +1,5 @@
 # Analytical analysis of COVID-19’s impact on unemployment and travel in Australia
-### Authors: #### Emily Dunkin,  Brandon Tiley,  Danielle Cahill,  Waqas Zahick,  Tom Peddlesden
+### Authors: Emily Dunkin,  Brandon Tiley,  Danielle Cahill,  Waqas Zahick,  Tom Peddlesden
 
 This project aims to investigate the impact of COVID-19 and whether it had a significant influence on the Australian Economy. Further to this, we were motivated by an interest in whether COVID-19 will notably impact us in the future.
 
