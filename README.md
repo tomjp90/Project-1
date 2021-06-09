@@ -3,6 +3,15 @@
 
 This project aims to investigate the impact of COVID-19 and whether it had a significant influence on the Australian Economy. Further to this, we were motivated by an interest in whether COVID-19 will notably impact us in the future.
 
+Technologies Used:
+* Python
+* Matplotlib
+* Pandas
+* Numpy
+* Functools
+* Scipy.stats
+* Ipywidgets
+* Sklearn
 
 ## Hypothesis
 
